@@ -1,4 +1,4 @@
-## NodeJS + Typescript MongoDB integration (DEV)
+## NodeJS + Typescript MongoDB template
 
 This application uses mongo database with mongoose.
 
